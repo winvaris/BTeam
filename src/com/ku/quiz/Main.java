@@ -10,6 +10,7 @@ public class Main {
 		Team team = Team.getInstance();
 		
 		// add team members here.
+		team.addMember("5610545757", "Manatsawin Hanmongkolchai");
 		
 		team.displayMembers();
 	}
