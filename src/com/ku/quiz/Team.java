@@ -31,7 +31,7 @@ public class Team {
 	/**
 	 * Display all team members on screen.
 	 */
-	public void displayMember() {
+	public void displayMembers() {
 		System.out.println("id          name");
 		for (String id: members.keySet()) {
 			System.out.println(id + "  " + members.get(id));
