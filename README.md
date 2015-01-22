@@ -3,7 +3,7 @@ Lab Quiz #1
 
 You are given two classes, in the following diagram:
 
-<p align="center"><img src="Class-Diagram.svg" height="400" alt="Class Diagram"></p>
+<p align="center"><img src="https://cdn.rawgit.com/dtinth/fd253c4bbfd29824356b/raw/df75fffb25dbd54d48283a143712c490206e34d8/Class-Diagram.svg" height="400" alt="Class Diagram"></p>
 
 - The __Team__ class holds the team members and can display the team members.
 - The __Main__ class invokes the team class.
