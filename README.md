@@ -19,3 +19,23 @@ Commit and push your work to the GitHub repository.
 In the end, the program should display everyone's name in the team.
 
 Every team member MUST add their own name, and MUST NOT add anyone else.
+
+
+
+Using Eclipse
+-------------
+
+Simply create a new "Java Project" and select the location as this folder.
+
+
+Using Command Line
+------------------
+
+To compile:
+
+    javac src/com/ku/quiz/*.java
+
+To run:
+
+    java -cp src com.ku.quiz.Main
+
