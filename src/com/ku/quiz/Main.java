@@ -11,6 +11,7 @@ public class Main {
 		
 		// add team members here.
 		team.addMember("5610545757", "Manatsawin Hanmongkolchai");
+		team.addMember("5610545676", "Nut Kaewnak");
 		
 		team.displayMembers();
 	}
