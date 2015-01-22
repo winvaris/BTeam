@@ -13,6 +13,7 @@ public class Main {
 		team.addMember("5610545757", "Manatsawin Hanmongkolchai");
 		team.addMember("5610546281", "Perawith Jarunithi");
 		team.addMember("5610545676", "Nut Kaewnak");
+		team.addMember("5610546770", "Varis Kritpolchai");
 		
 		team.displayMembers();
 	}
